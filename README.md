@@ -1,12 +1,9 @@
 ## How to Compile 
- "make obfuscate" (Equivalent to "gcc -o obfuscate obfuscate.c")
+ `make obfuscate` (Equivalent to "gcc -o obfuscate obfuscate.c")
 
   
-How to Run:
-===========
-
-Part 1:
-    "./obfuscate"
+## How to Run:
+    `./obfuscate`
 
 Reflection:
 ===========
